@@ -1,6 +1,6 @@
 __path = process.cwd()
 let express = require('express');
-let creator = "Fajar Ihsana"
+let creator = "Pino Bagas S"
 let axios = require('axios')
 let fs = require('fs')
 let fetch = require('node-fetch');
